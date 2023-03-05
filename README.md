@@ -1,11 +1,6 @@
 <h1>Discord Server Cloner</h1>
 <p>Simple tool to clone any Discord server without permissions </p>
 
-<h2>Discord Server Cloner</h2>
-<img src="https://i.imgur.com/F8alGhP.jpeg" alt="Discord Server Cloner"></a>
-
-
-
 <h2>How to Use</h2>
 <code>1) Run the install.bat file
 2) Open discord and use the key combination CTRL+SHIFT+I
