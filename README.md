@@ -12,5 +12,4 @@
 8) On the server you want to clone, use the copyserver command with the chosen prefix
 </code>
   
-  
- 
+
