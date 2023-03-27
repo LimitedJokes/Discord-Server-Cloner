@@ -11,4 +11,4 @@
 7) Paste in your token and enter the prefix of your choice
 8) On the server you want to clone, use the copyserver command with the chosen prefix
 </code>
-  
+ 
